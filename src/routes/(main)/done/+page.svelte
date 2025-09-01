@@ -37,7 +37,7 @@
 </script>
 
 <div
-  class="min-h-[75vh] md:min-h-[70vh] flex items-center justify-center bg-gray-50 px-4"
+  class="flex items-center justify-center bg-gray-50 px-4"
 >
   <div class="w-full max-w-md">
     <div class="p-8 space-y-6 text-center">
