@@ -17,7 +17,7 @@
     </div>
   </header>
 
-  <main class="container min-h-[85vh] md:min-h-[70vh] ">
+  <main class="container min-h-[85vh] md:min-h-[80vh] ">
     <slot />
   </main>
 
