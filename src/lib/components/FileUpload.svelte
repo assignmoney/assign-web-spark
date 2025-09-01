@@ -30,7 +30,7 @@
   }
 </script>
 
-<div class="flex flex-col items-center justify-center w-full max-w-md mx-auto">
+<div class="flex flex-col items-center justify-center w-full">
   <!-- Dropzone -->
   <div
     class={`w-full flex flex-col items-center justify-center rounded-xl border-2 border-dashed cursor-pointer transition 
