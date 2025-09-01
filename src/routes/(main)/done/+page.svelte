@@ -81,7 +81,7 @@
           type="button"
           aria-label="Copy payment link"
           on:click={copyLink}
-          class="inline-flex items-center justify-center rounded-lg border border-gray-300 px-3 py-2 text-sm font-medium bg-white hover:bg-gray-50 active:scale-[0.97] transition"
+          class="inline-flex items-center justify-center rounded-lg border border-gray-300 px-3 py-2 text-sm font-medium bg-white hover:bg-gray-50 active:scale-[0.97] transition cursor-pointer"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -101,7 +101,7 @@
           type="button"
           aria-label="Share payment link"
           on:click={shareLink}
-          class="inline-flex items-center justify-center rounded-lg border border-gray-300 px-3 py-2 text-sm font-medium bg-white hover:bg-gray-50 active:scale-[0.97] transition"
+          class="inline-flex items-center justify-center rounded-lg border border-gray-300 px-3 py-2 text-sm font-medium bg-white hover:bg-gray-50 active:scale-[0.97] transition cursor-pointer"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
