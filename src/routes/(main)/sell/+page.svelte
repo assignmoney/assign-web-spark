@@ -19,7 +19,7 @@
   />
 </svelte:head>
 
-<section class="space-y-6">
+<section class="space-y-6 px-6">
   <h1 class="text-2xl font-bold tracking-tight">Create a payment link</h1>
   {#if type}
     <p class="text-gray-600 text-sm">
@@ -27,7 +27,7 @@
     </p>
   {/if}
 
-  <div class="space-y-4 max-w-md">
+  <div class="space-y-4">
     <div>
       <label for="title" class="label">Title</label>
       <input

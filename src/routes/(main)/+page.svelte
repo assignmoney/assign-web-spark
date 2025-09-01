@@ -22,7 +22,7 @@
     { key: "other", label: "Other", emoji: "✨", desc: "Anything else" },
   ];
 
-  const linkFor = (k: string) => `/sell/${k}`;
+  const linkFor = (k: string) => `/sell`;
 </script>
 
 <svelte:head>
