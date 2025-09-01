@@ -10,13 +10,16 @@
     }
 }
 
-@layer components {
+@layer component {
     .container {
-        @apply mx-auto px-4 max-w-7xl;
+        @apply mx-auto max-w-3xl px-4 py-10;
     }
 
     .button {
         @apply bg-blue-500 text-white font-bold py-2 px-4 rounded;
+    }
+    .secondary-button {
+        @apply inline-block rounded-xl border border-gray-300 px-3 py-1.5 hover:bg-gray-100;
     }
 }
 
